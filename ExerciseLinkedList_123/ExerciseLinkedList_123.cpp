@@ -103,7 +103,6 @@ bool CircularLinkedList::delNode() {
 	return true;
 
 	delete anggi;
-
 }
 
 void CircularLinkedList::traverse() {
